@@ -11,11 +11,7 @@ redirect_from:
 
 
 # The Don Quixote of AI Research
-
  
-                        --“Muerte no más que vida.”
-
-
 Upon the vast horizon of AI research,  
 Rides a knight with dream and daring heart.  
 Like Don Quixote, he charges the unknown,  
